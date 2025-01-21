@@ -53,7 +53,7 @@ I’m especially interested in:
 You can find me on the following platforms: 
 
 
-[![YouTube](https://img.shields.io/badge/Instagram-YourUsername-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/s0mbrero_exilus/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/s0mbrero_exilus/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@ItsS0mbreroOnRoad)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white)](https://x.com/S0mbrero_Exilus)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat&logo=github&logoColor=white)](https://github.com/S0mbreros)
