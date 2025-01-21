@@ -2,9 +2,7 @@
 
 I'm a 16-year-old student, passionate about technology and programming. Ever since I was a kid, watching my dad work on the computer, I knew that technology was my world. Over 12 years later, here I am, pursuing my dream of becoming a programmer and working directly with machines. While I'm still in school, in my third year of a vocational high school with an IT focus, I am driven to make this passion a reality.
 
-![](https://ru.pinterest.com/pin/592997475950782242/)
-
----
+<img src="https://i.pinimg.com/originals/4c/04/49/4c04499d9b89e8f6b8de4c8c8b12a10f.gif" width="900" height="300">
 
 ## About Me
 
@@ -19,23 +17,9 @@ I'm a 16-year-old student, passionate about technology and programming. Ever sin
 
 Although I face challenges, especially with motivation and time management (due to my school workload), I'm committed to finding ways to grow as a programmer. I dream of going solo and working on my own projects, but it's hard to balance everything. My grades are generally around 8 or 9 out of 10, which I'm proud of, but I want to dedicate more time to personal projects and practice.
 
----
+<img src="https://i.pinimg.com/originals/a9/9c/4b/a99c4b47fee26a92b4967860ff625013.gif" width="900" height="100">
 
-## 💬 Discord Name
-Feel free to reach out to me on Discord! Here’s my Discord tag:
 
-**s0mbreros**
-
-Let's chat, whether it’s for programming tips, gaming, or anything tech-related. 😄
-
----
-
-## Achievements
-
-- **Ranked 2nd** in my class for core subjects 🏅
-- **Grades**: Usually around 8-9/10 (It's tough to get a perfect 10! 😅)
-
----
 
 ## Projects & Interests
 
@@ -46,38 +30,44 @@ I’m especially interested in:
 - Writing code in C++, Assembly, and Python 🖥️
 - Exploring new tech and staying up-to-date with the industry 🤖
 
----
-
 ## Let's Connect! 
 
-You can find me on the following platforms: 
+You can find me on the following platforms:
 
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/s0mbrero_exilus/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@ItsS0mbreroOnRoad)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white)](https://x.com/S0mbrero_Exilus)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat&logo=github&logoColor=white)](https://github.com/S0mbreros)
-
-Or catch me gaming here:
-
-[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?&style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/BestViberEU/)  
-[![Twitch](https://img.shields.io/badge/Twitch-%2311B5E4.svg?&style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/exilus_s0mbrero)
-
-
+<div>
+  <a href="https://www.instagram.com/s0mbrero_exilus/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.youtube.com/@ItsS0mbreroOnRoad">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://x.com/S0mbrero_Exilus">
+    <img src="https://img.shields.io/badge/X (Rip Twitter)-%23000000.svg?&style=flat&logo=X&logoColor=white" alt="X (Rip Twitter)">
+  </a>
+  <a href="https://github.com/S0mbreros">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://steamcommunity.com/id/BestViberEU/">
+    <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=flat&logo=steam&logoColor=white" alt="Steam">
+  </a>
+  <a href="https://www.twitch.tv/exilus_s0mbrero">
+    <img src="https://img.shields.io/badge/Twitch-%237F3FBF.svg?&style=flat&logo=twitch&logoColor=white" alt="Twitch">
+  </a>
+</div>
 
 Feel free to reach out to me if you have any questions or just want to chat about tech! 😄
 
----
+<img src="https://i.pinimg.com/736x/c3/23/aa/c323aa9c46b3aa8931de5d10b5e3ef98.jpg" width="900" height="500">
+
 
 ## 🎶 Main Playlist
 
 Here are some of the tracks I can't stop listening to lately! 🎧  
 It's a mix of everything I love, from chill tunes to upbeat bangers. Check it out on [Spotify](https://open.spotify.com/playlist/2pc1VhZAy0GoXFHSoJ1Mbo?si=66f4692cf94a42ab).
 
-![](https://ru.pinterest.com/pin/4362930883349053/)
+<img src="https://i.pinimg.com/736x/65/64/97/65649755c8e0364f204c2a3bf4bddc94.jpg" width="900" height="300">
 
----
-
+###### love you <3 *mwah*
 
 ## 🔧 Technologies & Tools
 - **Languages**: C++, Assembly, Python
@@ -85,12 +75,12 @@ It's a mix of everything I love, from chill tunes to upbeat bangers. Check it ou
 
 ---
 
-![Coding]([https://ru.pinterest.com/pin/881368589571768390/](https://i.pinimg.com/originals/1f/a2/2b/1fa22befc10e3cbacd58c5b407a97997.gif))
 
-> "The best revenge is massive success." – Frank Sinatra.
+<img src="https://i.pinimg.com/originals/1f/a2/2b/1fa22befc10e3cbacd58c5b407a97997.gif" width="900" height="200">
+
+
+> "The best revenge is massive success." - Frank Sinatra.
+>
 > "You're nobody 'til somebody loves you." - Dean Martin.
+>
 >"The best thing about the future is that it comes one day at a time." - Bing Crosby.
-
-
-
-![](https://ru.pinterest.com/pin/1145181011493480077/)
