@@ -85,7 +85,7 @@ It's a mix of everything I love, from chill tunes to upbeat bangers. Check it ou
 
 ---
 
-![Coding](https://ru.pinterest.com/pin/881368589571768390/)
+![Coding]([https://ru.pinterest.com/pin/881368589571768390/](https://i.pinimg.com/originals/1f/a2/2b/1fa22befc10e3cbacd58c5b407a97997.gif))
 
 > "The best revenge is massive success." – Frank Sinatra.
 > "You're nobody 'til somebody loves you." - Dean Martin.
