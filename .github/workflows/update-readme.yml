@@ -1,0 +1,41 @@
+name: Update README Year Diff
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # every day at midnight UTC
+  workflow_dispatch:     # allows manual trigger too
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Calculate year difference and update README
+        run: |
+          START_YEAR=2008
+          CURRENT_YEAR=$(date +'%Y')
+          TODAY=$(date +'%m-%d')
+          
+          if [[ "$TODAY" < "01-01" ]]; then
+            ((CURRENT_YEAR--))
+          fi
+
+          DIFF=$((CURRENT_YEAR - START_YEAR))
+
+          sed -i "s/<!--YEAR_DIFF-->.*<!--YEAR_DIFF-->/<!--YEAR_DIFF-->$DIFF<!--YEAR_DIFF-->/" README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update year difference"
+          git push

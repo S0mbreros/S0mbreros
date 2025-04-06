@@ -1,13 +1,13 @@
 # Hi there, I'm S0mbrero! 👋
 
-I'm a 16-year-old student, passionate about technology and programming. Ever since I was a kid, watching my dad work on the computer, I knew that technology was my world. Over 12 years later, here I am, pursuing my dream of becoming a programmer and working directly with machines. While I'm still in school, in my third year of a vocational high school with an IT focus, I am driven to make this passion a reality.
+I'm a <!--YEAR_DIFF-->X<!--YEAR_DIFF-->-year-old student, passionate about technology and programming. Ever since I was a kid, watching my dad work on the computer, I knew that technology was my world. Over 12 years later, here I am, pursuing my dream of becoming a programmer and working directly with machines. While I'm still in school, in my third year of a vocational high school with an IT focus, I am driven to make this passion a reality.
 
 <img src="https://i.pinimg.com/originals/4c/04/49/4c04499d9b89e8f6b8de4c8c8b12a10f.gif" width="900" height="300">
 
 ## About Me
 
-- **Age**: 16 (turning 17 this year)
-- **School**: Vocational IT High School (Ranked 2nd in my class for core subjects)
+- **Age**: <!--YEAR_DIFF-->X<!--YEAR_DIFF-->
+- **School**: Vocational IT High School
 - **Main Interests**: Programming, IT, Systems and Networks, and tech in general.
 - **Languages/Technologies**: 
   - **C++** (My favorite! 💻)
