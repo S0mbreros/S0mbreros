@@ -9,6 +9,7 @@ I'm a <!--YEAR_DIFF-->X<!--YEAR_DIFF-->-year-old student, passionate about techn
 - **Age**: <!--YEAR_DIFF-->X<!--YEAR_DIFF-->
 - **School**: Vocational IT High School
 - **Main Interests**: Programming, IT, Systems and Networks, and tech in general.
+- **From the start of this journey**: 💻 <!--CODING_YEARS-->X<!--CODING_YEARS--> years.
 - **Languages/Technologies**: 
   - **C++** (My favorite! 💻)
   - **Assembly** (I love understanding how machines work at a low level 🔧)

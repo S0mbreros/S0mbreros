@@ -20,17 +20,32 @@ jobs:
 
       - name: Calculate year difference and update README
         run: |
+          # Year difference from 2008
           START_YEAR=2008
           CURRENT_YEAR=$(date +'%Y')
           TODAY=$(date +'%m-%d')
-          
+
           if [[ "$TODAY" < "01-01" ]]; then
             ((CURRENT_YEAR--))
           fi
 
           DIFF=$((CURRENT_YEAR - START_YEAR))
 
+          # Replace in README
           sed -i "s/<!--YEAR_DIFF-->.*<!--YEAR_DIFF-->/<!--YEAR_DIFF-->$DIFF<!--YEAR_DIFF-->/" README.md
+
+          # Coding years since 2019
+          CODING_START_YEAR=2019
+          CODING_ANNIVERSARY="$CURRENT_YEAR-01-01"
+
+          if [[ "$TODAY" < "01-01" ]]; then
+            ((CURRENT_YEAR--))
+          fi
+
+          CODING_YEARS=$((CURRENT_YEAR - CODING_START_YEAR))
+
+          # Replace in README
+          sed -i "s/<!--CODING_YEARS-->.*<!--CODING_YEARS-->/<!--CODING_YEARS-->$CODING_YEARS<!--CODING_YEARS-->/" README.md
 
       - name: Commit and push if changed
         run: |
