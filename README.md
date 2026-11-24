@@ -21,11 +21,6 @@ Right now I'm learning by building small tools and breaking
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 📌 Currently
-
-- Working on a task manager in C++
-- Learning more about networking and operating systems
-
 ### 💬 Quote
 
 > *The best thing about the future is that it comes one day at a time.*
